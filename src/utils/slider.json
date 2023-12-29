@@ -1,0 +1,40 @@
+[
+    {
+        "name" : "MAC-Studio fix fluid",
+        "price" : "2499",
+        "detail" : "Control the Oil ,sweat and Humdity-Resistant",
+        "image" :"./foundation.avif"
+    },
+    
+    {
+        "name" : "MAC-Locked Kiss ink",
+        "price" : "1499",
+        "detail" : "A transfer-proof and waterproof liquid lipstick ",
+        "image" :"./lipstick.avif"
+    },
+    
+    {
+        "name" : "MAC-Compact powder",
+        "price" : "1999",
+        "detail" : "Discover colour-true wear with a blurred matte finish.",
+        "image" :"./compactPowder.avif"
+    },
+    {
+        "name" : "MAC-Prime Fix",
+        "price" : "1599",
+        "detail" : "A lightweight water mist that soothes gently and refreshes skin.",
+        "image" :"./PrimeFix.avif"
+    },
+    {
+        "name" : "MAC-Mascara",
+        "price" : "999",
+        "detail" : "Featuring a smudge-proof, 24-hour formula that stays all day.",
+        "image" :"./mascara.avif"
+    },
+    {
+        "name" : "MAC-WaterProof Linear",
+        "price" : "1199",
+        "detail" : "A liner that combines long-lasting wear with a precision line.",
+        "image" :"./linear.avif"
+    }
+]

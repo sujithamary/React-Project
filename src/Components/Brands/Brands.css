@@ -1,0 +1,26 @@
+/* Brands.css */
+.c-container {
+    justify-content: space-around;
+  }
+  
+  .brand-container {
+    position: relative;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    gap: 10rem; 
+  }
+  
+  .brand-container>img {
+    width: 9rem;
+    opacity: 0; 
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    opacity: 0; 
+  }
+
+  
+  
